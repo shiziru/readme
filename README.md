@@ -1,7 +1,6 @@
 10170331 南师大2017级GIS算法基础作业  何伟
 =================================================
-<ol>
-<il>[跳马](https://shiziru.github.io/跳马.html)</il>
+[跳马](https://shiziru.github.io/跳马.html)</il>
 ===
 2.[最佳工作序列](https://shiziru.github.io/工作序列.html)
 ===
@@ -21,4 +20,4 @@
 ===
 10.[多边形拓扑](https://shiziru.github.io/多边形拓扑.html)
 ===
-</ol>
+
