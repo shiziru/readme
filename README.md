@@ -26,7 +26,7 @@
  </head>
  <body>
   <ol>
-   <il><a href="https://shiziru.github.io/跳马.html">跳马</a><il>
+   <li><a href="https://shiziru.github.io/跳马.html">跳马</a></li>
   </ol>
  </body>
 </html>
