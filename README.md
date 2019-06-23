@@ -28,6 +28,7 @@
   <h1>GIS基础算法</h1>
   <ol>
    <li><a href="https://shiziru.github.io/跳马.html">跳马</a></li>
+   <li><a href="https://shiziru.github.io/工作序列.html">最佳工作序列</a></li>
   </ol>
  </body>
 </html>
